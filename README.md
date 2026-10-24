@@ -1,4 +1,5 @@
 # Enfermeria-PAE-patrones-alterados
+![texto_descriptivo](https://user-images.githubusercontent.com/...png)
 "Caso clínico académico de paciente con múltiples patrones funcionales alterados y plan de cuidados para alumnos".
 /caso-clinico-pae-multipatologico
 │
