@@ -38,4 +38,43 @@ En este paciente se observa la **alteración crítica de 10 de los 11 patrones f
 8. **Rol - Relaciones:** **Alterado.** Aislamiento social prolongado, sobrecarga evidente del cuidador principal (esposa mayor de edad con patologías propias).
 9. **Sexualidad - Reproducción:** No evaluable / Alterado secundariamente por condición crónica y pérdida de intimidad.
 10. **Afrontamiento - Tolerancia al Estrés:** **Alterado.** Respuestas de indefensión aprendida, ansiedad moderada ante los procedimientos de enfermería y el entorno hospitalario.
-11. **Valores - Creencias:** **Conservado / Relevante.** Expresa fuerte arraigo a creencias religiosas que le brindan contención espiritual, gestionadas a través del apoyo familiar.
+11. **Valores - Creencias:** **Conservado / Relevante.** Expresa fuerte arraigo a creencias religiosas que le brindan contención espiritual, gestionadas a través del apoyo familiar. caso-clinico-pae-multipatologico/
+│
+├── LÉAME.md                        # Presentación del caso y guía principal
+└── /actividades
+    ├── 01-matriz-valoracion.md     # Actividad 1: Mapeo de Patrones
+    ├── 02-plan-cuidados-nanda.md   # Actividad 2: Diagnósticos e Intervenciones
+    └── 03-evaluacion-rubrica.md    # Criterios de evaluación para el alumno
+
+# ✍️ Actividad 1: Matriz de Valoración por Patrones Funcionales
+
+**Instrucciones para el Alumno:**
+1. Haz un **Fork** de este repositorio o edita este archivo en tu propia rama (`feature/tu-nombre`).
+2. Completa la siguiente tabla cruzando la información del paciente Juan M. con los datos objetivos/subjetivos recopilados.
+
+---
+
+### 📊 Tabla de Valoración Holística
+
+| Patrón Funcional (Gordon) | Estado (Conservado / Alterado) | Datos Objetivos (Signos / Laboratorio) | Datos Subjetivos (Sintomas / Expresiones) |
+| :--- | :---: | :--- | :--- |
+| **1. Percepción - Manejo Salud** | *[Completar]* | *[Ej: Mala adherencia a tto]* | *[Completar con dicho del paciente/familia]* |
+| **2. Nutrición - Metabólico** | *[Completar]* | *[Ej: IMC 16.5, UPP Sacra Estadio IV]* | *[Completar]* |
+| **3. Eliminación** | *[Completar]* | *[Ej: Incontinencia urinaria y fecal]* | *[Completar]* |
+| **4. Actividad - Ejercicio** | *[Completar]* | *[Ej: Hemiplejia izquierda, Edema III]* | *[Completar]* |
+| **5. Sueño - Descanso** | *[Completar]* | *[Completar]* | *[Completar]* |
+| **6. Cognitivo - Perceptivo** | *[Completar]* | *[Ej: Delirium, EVA 7/10]* | *[Completar]* |
+| **7. Autopercepción** | *[Completar]* | *[Completar]* | *[Ej: "Soy un estorbo"]* |
+| **8. Rol - Relaciones** | *[Completar]* | *[Completar]* | *[Completar]* |
+| **9. Sexualidad - Reproducción** | *[Completar]* | *[Completar]* | *[Completar]* |
+| **10. Afrontamiento - Estrés** | *[Completar]* | *[Completar]* | *[Completar]* |
+| **11. Valores - Creencias** | *[Completar]* | *[Completar]* | *[Completar]* |
+
+---
+
+### ❓ Preguntas de Reflexión Clínica
+
+1. ¿Cuál de los patrones alterados representa el riesgo vital más inminente y por qué?
+   * *Respuesta del alumno:* 
+2. Justifica qué relación existe entre el **Patrón 2 (Nutricional)** y el **Patrón 4 (Actividad/Ejercicio)** en la evolución de la UPP del paciente.
+   * *Respuesta del alumno:*
