@@ -78,3 +78,62 @@ En este paciente se observa la **alteración crítica de 10 de los 11 patrones f
    * *Respuesta del alumno:* 
 2. Justifica qué relación existe entre el **Patrón 2 (Nutricional)** y el **Patrón 4 (Actividad/Ejercicio)** en la evolución de la UPP del paciente.
    * *Respuesta del alumno:*
+# 🩺 Actividad 2: Formulación e Intervenciones de Enfermería
+
+**Instrucciones:**
+Selecciona los **3 problemas prioritarios** identificados en el paciente Juan M. y redacta el Plan de Atención de Enfermería utilizando la taxonomía NANDA, NOC y NIC.
+
+---
+
+### 📌 Diagnóstico Prioritario 1 (Dominio Tisular / Infeccioso)
+
+* **Etiqueta NANDA:** *[Escribir código y etiqueta NANDA]*
+* **Factor Relacionado (r/c):** *[Completar]*
+* **Manifestado por (m/p):** *[Completar]*
+
+#### 🎯 Resultado Esperado (NOC)
+* **Indicador NOC:** *[Escribir NOC seleccionado]*
+* **Puntuación Diana:**
+  * Mantener en: *[1 a 5]*
+  * Aumentar a: *[1 a 5]*
+
+#### 💉 Intervenciones de Enfermería (NIC)
+* **NIC 1:** *[Nombre del NIC y código]*
+  * [ ] *Cuidado / Acción 1:*
+  * [ ] *Cuidado / Acción 2:*
+  * [ ] *Fundamento Científico:*
+* **NIC 2:** *[Nombre del NIC y código]*
+  * [ ] *Cuidado / Acción 1:*
+  * [ ] *Fundamento Científico:*
+
+---
+
+### 📌 Diagnóstico Prioritario 2 (Dominio Respiratorio / Hemodinámico)
+
+* **Etiqueta NANDA:** 
+* **Factor Relacionado (r/c):** 
+* **Manifestado por (m/p):** 
+
+#### 🎯 Resultado Esperado (NOC)
+* **Indicador NOC:** 
+* **Puntuación Diana:** Mantener en [ ] $\rightarrow$ Aumentar a [ ]
+
+#### 💉 Intervenciones de Enfermería (NIC)
+* [ ] **Intervención:** 
+* [ ] **Fundamento Científico:** 
+
+---
+
+### 📌 Diagnóstico Prioritario 3 (Dominio Cognitivo / Seguridad)
+
+* **Etiqueta NANDA:** 
+* **Factor Relacionado (r/c):** 
+* **Manifestado por (m/p):** 
+
+#### 🎯 Resultado Esperado (NOC)
+* **Indicador NOC:** 
+* **Puntuación Diana:** Mantener en [ ] $\rightarrow$ Aumentar a [ ]
+
+#### 💉 Intervenciones de Enfermería (NIC)
+* [ ] **Intervención:** 
+* [ ] **Fundamento Científico:**
