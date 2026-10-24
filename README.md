@@ -139,3 +139,10 @@ Selecciona los **3 problemas prioritarios** identificados en el paciente Juan M.
 * [ ] **Fundamento Científico:**
 * [ ] ---
 
+## 📝 ¿Cómo realizar y entregar esta actividad?
+
+1. **Hacer un Fork:** Haz clic en el botón **Fork / Tenedor** (arriba a la derecha) para crear tu propia copia de este repositorio.
+2. **Completar las Actividades:** Ve a la carpeta `/actividades`, abre los archivos, haz clic en el **Lápiz ✏️** y completa las tablas y consignas del PAE.
+3. **Guardar Cambios:** Al finalizar, presiona el botón verde **"Commit changes..."**.
+4. **Enviar la Entrega:** Vuelve a la página principal de tu repositorio, haz clic en **Contribute** -> **Create Pull Request** e indica tu Nombre, Apellido y Comisión.
+
