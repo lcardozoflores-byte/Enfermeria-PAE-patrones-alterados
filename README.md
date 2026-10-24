@@ -1,2 +1,41 @@
 # Enfermeria-PAE-patrones-alterados
 "Caso clínico académico de paciente con múltiples patrones funcionales alterados y plan de cuidados para alumnos".
+/caso-clinico-pae-multipatologico
+│
+├── README.md                  # Presentación general del caso, objetivos de aprendizaje e instrucciones para los alumnos
+├── /docs
+│   ├── 01-valoracion.md       # Historia clínica, examen físico y valoración por Patrones Funcionales de Gordon
+│   ├── 02-diagnosticos.md     # Priorización de diagnósticos NANDA
+│   ├── 03-plan-cuidados.md    # Intervenciones NIC y Resultados NOC
+│   └── 04-guia-docente.md     # Consignas de trabajo para los estudiantes
+└── /evaluacion
+    └── rubrica.md             # Criterios de evaluación del trabajo práctico# Caso Clínico Académico: Paciente Crónico Complejo con Alteración Multipatológica de Patrones Funcionales
+
+## 🎯 Propósito Pedagógico
+Este repositorio presenta un caso clínico de alta complejidad diseñado para estudiantes de enfermería. El objetivo es entrenar la capacidad de **valoración holística, juicio clínico, priorización de diagnósticos (NANDA) y planificación de cuidados basados en evidencia (NIC/NOC)** ante un paciente con compromiso sistémico y alteración de la mayoría de sus patrones funcionales de salud.
+
+---
+
+## 📋 Resumen del Caso Clínico
+
+* **Paciente:** Juan M., 74 años.
+* **Antecedentes Personales Patológicos (APP):** Hipertensión Arterial (HTA), Diabetes Mellitus Tipo 2 insulinorrequirente, Insuficiencia Cardíaca Crónica (ICC - FEY reducida), Secuela de ACV isquémico (postración relativa de 6 meses).
+* **Motivo de Ingreso:** Presenta cuadro de 48 horas de evolución caracterizado por disnea progresiva, edema agudo de miembros inferiores, fiebre (38.2°C), lesión ulcerosa sacra infectada (Estadio IV) y desorientación temporoespacial referida por la familia.
+
+---
+
+## 🔍 Valoración: Estado de los Patrones Funcionales (Marjory Gordon)
+
+En este paciente se observa la **alteración crítica de 10 de los 11 patrones funcionales**:
+
+1. **Percepción - Manejo de la Salud:** Alterado. Incumplimiento crónico del tratamiento farmacológico y dietético por barreras socioeconómicas y falta de red de apoyo primaria activa.
+2. **Nutrición - Metabólico:** **Severamente Alterado.** Desnutrición calórico-proteica (IMC 16.5), hipoalbuminemia, mucosas secas, dificultad para la deglución leve (disfagia a sólidos) y presencia de UPP en región sacra.
+3. **Eliminación:** **Alterado.** Incontinencia urinaria y fecal mixta; tránsito intestinal lento con episodios de constipación alternados con diarrea por uso de antibióticos.
+4. **Actividad - Ejercicio:** **Severamente Alterado.** Déficit total de autocuidado para la movilidad, movilización en cama con dependencia de terceros, fuerza muscular disminuida (plejia secuelar en hemicuerpo izquierdo), pulsos periféricos débiles, edemas grado III en miembros inferiores.
+5. **Sueño - Descanso:** **Alterado.** Inversión del ciclo vigilia-sueño, despertares frecuentes por dolor secundario a UPP y disnea paroxística nocturna.
+6. **Cognitivo - Perceptivo:** **Alterado.** Deterioro cognitivo moderado, síndrome confusional agudo (delirium) de origen infeccioso, dolor crónico nociceptivo/neuropático en zona de presión sacra (EVA 7/10).
+7. **Autopercepción - Autoconcepto:** **Alterado.** Expresión de sentimientos de inutilidad, dependencia extrema y carga familiar ("soy un estorbo").
+8. **Rol - Relaciones:** **Alterado.** Aislamiento social prolongado, sobrecarga evidente del cuidador principal (esposa mayor de edad con patologías propias).
+9. **Sexualidad - Reproducción:** No evaluable / Alterado secundariamente por condición crónica y pérdida de intimidad.
+10. **Afrontamiento - Tolerancia al Estrés:** **Alterado.** Respuestas de indefensión aprendida, ansiedad moderada ante los procedimientos de enfermería y el entorno hospitalario.
+11. **Valores - Creencias:** **Conservado / Relevante.** Expresa fuerte arraigo a creencias religiosas que le brindan contención espiritual, gestionadas a través del apoyo familiar.
